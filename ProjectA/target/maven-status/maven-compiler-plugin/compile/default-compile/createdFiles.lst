@@ -1,0 +1,5 @@
+com\app\parent\ParentPom.class
+com\app\client\AClient.class
+com\app\a\AReq.class
+com\app\a\AResp.class
+com\app\a\A.class

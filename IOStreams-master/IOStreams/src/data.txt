@@ -1,0 +1,10 @@
+custid  name    cardnum       dob       balance  emailid
+22222 sandip 37851566 07-08-1992 1000000 sandipsh321@gmail.com
+22222 sachin 36851566 07-08-1992 5000000 sanchin@gmail.com
+33333 sumit 67851566 07-08-1992 8000000 sumit@gmail.com
+33333 dhanu 69851566 07-08-1992 9000000 dhanu@gmail.com
+44444 ashwin 57851566 07-08-1992 9500000 aswhin@gmail.com
+44444 kumar 55851566 07-08-1992 6300000 kumar@gmail.com
+55555 sunil 907851566 07-08-1992 560000 sunil@gmail.com
+66666 anil 77851566 07-08-1992 780000 anil@gmail.com
+66666 swapnil 37851566 07-08-1992 78030 swapnil@gmail.com
